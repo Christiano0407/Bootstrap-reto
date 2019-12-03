@@ -1,3 +1,14 @@
+
+.text-platzi {
+    color: #97c933 !important;
+}
+
+
+#header img {
+    width: 80px;
+    cursor: pointer;
+}
+
 #footer{
     background:#1c3643;
 
@@ -5,5 +16,5 @@
 
 .container a {
     color: white;
-    
+    cursor: pointer;
 }
