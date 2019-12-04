@@ -42,3 +42,11 @@ object-fit: cover;
     color: white;
     cursor: pointer;
 }
+
+.btn-platzi {
+    background-color: #97c933 ;
+}
+
+.btn-platzi:hover {
+    background-color:#3c5803 ;
+}
