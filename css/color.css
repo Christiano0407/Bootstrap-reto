@@ -50,3 +50,12 @@ object-fit: cover;
 .btn-platzi:hover {
     background-color:#3c5803 ;
 }
+
+#place-time img {
+    max-width: 100%;
+}
+
+#place-time {
+    background-color: rgba(0, 0, 0, .5);
+    color: white;
+}
